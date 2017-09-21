@@ -27,3 +27,7 @@ Cabeçalho de segundo nível
 > Esse texto será envolto pelo emento HTML blockquote.
 
 [Endereço google](www.google.com "Site google")
+
+Imagem do TSI Coxim
+-----------------------
+![Tsi Coxim](http://www.gss.eti.br/sitetsi/wp-content/uploads/2015/07/screenshot.png "TSI Coxim")
