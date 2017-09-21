@@ -24,9 +24,10 @@ Cabeçalho de primeiro nível
 Cabeçalho de segundo nível
 -------------------------
 
-Cabeçaçho 3
---------------------------
-3
+Cabeçalho 3 
+------------------------
+teste
+
 
 > Esse texto será envolto pelo emento HTML blockquote.
 
