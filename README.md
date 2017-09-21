@@ -9,7 +9,7 @@ Git e Github
 
 *enfatizado*
 
-** fortemente enfatizado
+**fortemente enfatizado**
 
 `<header>`
 
