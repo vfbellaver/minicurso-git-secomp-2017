@@ -9,7 +9,7 @@ Git e Github
 
 *enfatizado*
 
-**fortemente enfatizado
+** fortemente enfatizado
 
 `<header>`
 
@@ -26,4 +26,4 @@ Cabeçalho de segundo nível
 
 > Esse texto será envolto pelo emento HTML blockquote.
 
-[Endereço google](www.google.com "Site google"
+[Endereço google](www.google.com "Site google")
